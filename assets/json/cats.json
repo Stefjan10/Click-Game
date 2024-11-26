@@ -1,0 +1,33 @@
+{
+        "characterData": {
+                "greyCat": {
+                        "texture": "../assets/images/greyCat.png",
+                        "eventMode": "static",
+                        "anchor": {
+                                "x": 0.5,
+                                "y": 0.5
+                        },
+                        "position": {
+                                "x": 1750,
+                                "y": 400
+                        },
+                        "text": {
+                                "content": "Kiko",
+                                "style": {
+                                        "fontFamily": "Roboto Slab",
+                                        "fontSize": 20,
+                                        "fill": "0x000000"
+                                },
+                                "position": {
+                                        "x": 1780,
+                                        "y": 290
+                                },
+                                "visible": false
+                        },
+                        "mouseover": {
+                                "x": 1800,
+                                "y": 300
+                        }
+                }
+        }
+}
